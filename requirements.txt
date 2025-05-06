@@ -6,6 +6,7 @@ scikit-learn
 catboost
 xgboost
 Flask
+dill
 
 #-e .
 # -e .  # Uncomment this line if you have a local package to install
